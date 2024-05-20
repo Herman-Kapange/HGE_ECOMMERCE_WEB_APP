@@ -1,0 +1,15 @@
+ <?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Home Gym Equipment</title>
+  <link>http://localhost/e-commerce web app/gallery.php</link>
+  <description>HGE  Gallery RSS Feed</description>
+    <item>
+    <title>Home Gym Equipment</title>
+    <link>http://localhost/e-commerce web app/gallery.php</link>
+    <description>HGE  Gallery RSS Feed</description>
+  </item>
+</channel>
+
+</rss> 
